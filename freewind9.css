@@ -131,7 +131,7 @@
     header .fw-feed-title a:link{color:#505659;}
     header .fw-feed-title a:hover{color:#505659;}
     header .fw-feed-title a:visited{color:#505659;}
-	#fw-feed-items-scroll-area{background-color:#ffffff; background-image:none; width: 100%; overflow:hidden;}
+	#fw-feed-items-scroll-area{background-image:none; width: 100%; overflow:hidden;}
     
     #fw-feed-items{margin:0 -14px 0 0;padding:0; overflow:hidden; z-index:-999;}
     
